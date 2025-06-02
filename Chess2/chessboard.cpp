@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 using namespace std;
 #define INTRO
 #define UPPER_LEFT_ANGLE	char(218)
@@ -11,11 +11,11 @@ using namespace std;
 #define BLACK_BOX			"\x20\x20"					/*char(32)*/
 void main()
 {
-	setlocale(LC_ALL, ""); //Включаеи руксскую кодировку
+	setlocale(LC_ALL, ""); //Р’РєР»СЋС‡Р°РµРё СЂСѓРєСЃСЃРєСѓСЋ РєРѕРґРёСЂРѕРІРєСѓ
 	int n;
-	cout << "Введите размер доски: "; cin >> n;
+	cout << "Р’РІРµРґРёС‚Рµ СЂР°Р·РјРµСЂ РґРѕСЃРєРё: "; cin >> n;
 	n++;
-	setlocale(LC_ALL, "C"); //включаем стандартную кодировку
+	setlocale(LC_ALL, "C"); //РІРєР»СЋС‡Р°РµРј СЃС‚Р°РЅРґР°СЂС‚РЅСѓСЋ РєРѕРґРёСЂРѕРІРєСѓ
 #ifdef INTRO
 	for (int i = 0; i <= n; i++)
 	{
