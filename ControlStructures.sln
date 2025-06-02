@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlStructures", "ControlStructures.vcxproj", "{790297E1-8426-495E-A32C-D3DA42FD846D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlStructures", "ControlStructures\ControlStructures.vcxproj", "{790297E1-8426-495E-A32C-D3DA42FD846D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome", "..\Palindrome\Palindrome.vcxproj", "{D7A48CD9-90B3-4959-991B-8761F7A087C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome", "Palindrome\Palindrome.vcxproj", "{D7A48CD9-90B3-4959-991B-8761F7A087C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ticket", "..\Ticket\Ticket.vcxproj", "{B9DAB318-7EB9-4034-942F-33194C02BDD9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ticket", "Ticket\Ticket.vcxproj", "{B9DAB318-7EB9-4034-942F-33194C02BDD9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Loops", "..\Loops\Loops.vcxproj", "{DDCAE6CF-38A5-4B04-9B03-D54248A87073}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Loops", "Loops\Loops.vcxproj", "{DDCAE6CF-38A5-4B04-9B03-D54248A87073}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter", "..\Shooter\Shooter.vcxproj", "{0384C27E-5806-4DA9-8791-BACD7A163285}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter", "Shooter\Shooter.vcxproj", "{0384C27E-5806-4DA9-8791-BACD7A163285}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FOR", "..\FOR\FOR.vcxproj", "{0DFACFB2-4CEE-4601-9EA9-7D2AB1A0A5BF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FOR", "FOR\FOR.vcxproj", "{0DFACFB2-4CEE-4601-9EA9-7D2AB1A0A5BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter2", "..\Shooter2\Shooter2.vcxproj", "{8CA1093C-C72F-4F3C-A4BF-5145B2FB57CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter2", "Shooter2\Shooter2.vcxproj", "{8CA1093C-C72F-4F3C-A4BF-5145B2FB57CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geometry", "..\Geometry\Geometry.vcxproj", "{EB5B2046-AE60-4764-903F-99DE65039F13}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geometry", "Geometry\Geometry.vcxproj", "{EB5B2046-AE60-4764-903F-99DE65039F13}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChessBoard", "..\ChessBoard\ChessBoard.vcxproj", "{DEF7ACBD-E5BC-494E-A535-80B88E5171EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChessBoard", "ChessBoard\ChessBoard.vcxproj", "{DEF7ACBD-E5BC-494E-A535-80B88E5171EC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HardChess", "..\HardChess\HardChess.vcxproj", "{5D5C260C-CD7B-46FC-A354-D388D7FD8AFA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HardChess", "HardChess\HardChess.vcxproj", "{5D5C260C-CD7B-46FC-A354-D388D7FD8AFA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess2", "..\Chess2\Chess2.vcxproj", "{4D2FF71F-96E8-440C-AE62-021D1BD84EF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess2", "Chess2\Chess2.vcxproj", "{4D2FF71F-96E8-440C-AE62-021D1BD84EF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PascalTriangle", "..\PascalTriangle\PascalTriangle.vcxproj", "{8019EED2-6D4E-4637-8F86-24E4CB7E0250}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PascalTriangle", "PascalTriangle\PascalTriangle.vcxproj", "{8019EED2-6D4E-4637-8F86-24E4CB7E0250}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decimal to binary", "..\Convertor\Convertor.vcxproj", "{0DD3EC31-DB2E-4477-9484-0455C58349D2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decimal to binary", "Convertor\Convertor.vcxproj", "{0DD3EC31-DB2E-4477-9484-0455C58349D2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DecToBin", "DecToBin\DecToBin.vcxproj", "{54EE4E22-D772-4EAD-A18D-79BB5D9CEC19}"
 EndProject
